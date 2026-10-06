@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como atividade de Desenvolvimento Web, com o objetivo de criar e estilizar um portal de notícias sobre tecnologia utilizando HTML5 e CSS3.
 
-## Sobre o Projeto
+# Sobre o Projeto
 
 O TechNews Today é um portal de notícias de tecnologia criado utilizando HTML semântico e CSS moderno.
 
@@ -10,7 +10,7 @@ O projeto apresenta uma notícia em destaque sobre Inteligência Artificial, uma
 
 A atividade também teve como objetivo entender a função de diferentes tags HTML e aplicar estilos utilizando CSS.
 
-## Objetivo
+# Objetivo
 
 O objetivo do projeto é praticar:
 
@@ -23,14 +23,14 @@ O objetivo do projeto é praticar:
 - Uso de elementos interativos como `details` e `summary`
 - Criação de um layout moderno e responsivo
 
-## Tecnologias Utilizadas
+# Ferramentas Utilizadas
 
 - HTML5
 - CSS3
 - CSS Grid
 - YouTube iframe
 
-## Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 TechNews-Today/
